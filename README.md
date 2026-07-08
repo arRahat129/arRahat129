@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ashikur Rahman</h1>
 
 <h3 align="center">
-Computer Science Student | Full Stack Web Developer | Next.js Enthusiast
+Computer Science Student | Full Stack Developer | Open Source Enthusiast
 </h3>
 
 <p align="center">
@@ -74,26 +74,23 @@ I'm a Computer Science student passionate about building modern and user-friendl
 
 # 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
+  <a href="https://portfolio-mohammad-ashikur-rahman.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://portfolio-mohammad-ashikur-rahman.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+  <a href="https://github.com/arRahat129">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://github.com/arRahat129">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://www.linkedin.com/in/mohammad-ashikur-rahman-rahat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/mohammad-ashikur-rahman-rahat">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://x.com/A_R_Rahat">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
+  <a href="https://x.com/A_R_Rahat">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
-
 ---
 
 # 📊 GitHub Stats
