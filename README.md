@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Banner" width="100%" />
+  <img src="./images/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ashikur Rahman</h1>
@@ -76,15 +76,15 @@ I'm a Computer Science student passionate about building modern and user-friendl
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/arRahat129">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mohammad-ashikur-rahman-rahat">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
+<a href="https://x.com/A_R_Rahat">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
@@ -98,12 +98,12 @@ I'm a Computer Science student passionate about building modern and user-friendl
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=arRahat129&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
-<img>
+<img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arRahat129&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </p>
@@ -114,7 +114,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=arRahat129&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -124,7 +124,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arRahat129&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -134,7 +134,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arRahat129&theme=tokyo-night"/>
 
 </p>
 
@@ -148,6 +148,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=arRahat129&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
