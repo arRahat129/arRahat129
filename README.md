@@ -76,6 +76,10 @@ I'm a Computer Science student passionate about building modern and user-friendl
 
 <p align="left">
 
+<a href="https://portfolio-mohammad-ashikur-rahman.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
 <a href="https://github.com/arRahat129">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -94,19 +98,16 @@ I'm a Computer Science student passionate about building modern and user-friendl
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=arRahat129&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arRahat129&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=arRahat129&show_icons=true&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arRahat129&layout=compact&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -115,16 +116,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=arRahat129&l
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=arRahat129&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arRahat129&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
