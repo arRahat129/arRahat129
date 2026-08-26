@@ -111,19 +111,14 @@ I'm a Computer Science student passionate about building modern and user-friendl
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=arRahat129&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=arRahat129&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arRahat129&theme=tokyo-night"/>
-
+  <img src="https://raw.githubusercontent.com/arRahat129/arRahat129/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
