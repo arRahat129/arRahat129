@@ -111,7 +111,8 @@ I'm a Computer Science student passionate about building modern and user-friendl
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arRahat129&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Daily_Coding-Active-244D3F?style=for-the-badge&logo=github&logoColor=white" alt="Daily Coding Active" />
+  <img src="https://img.shields.io/badge/GitHub-Continuous_Learning-000000?style=for-the-badge&logo=git&logoColor=white" alt="Continuous Learning" />
 </p>
 ---
 
